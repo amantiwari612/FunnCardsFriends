@@ -215,7 +215,7 @@ export default function App() {
                 onClick={() => { setStep(1); setNoPosition({ x: 0, y: 0 }); }}
                 className="px-8 py-3 bg-gray-100 hover:bg-gray-200 text-gray-800 font-bold rounded-full shadow transition-transform hover:scale-105 active:scale-95"
               >
-                Restart Game
+                Restart
               </button>
             </Card>
           )}
