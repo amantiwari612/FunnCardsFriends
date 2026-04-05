@@ -114,7 +114,7 @@ export default function App() {
             <Card key="5" color="bg-purple-50">
               <div className="w-full h-48 md:h-64 mb-6 rounded-xl overflow-hidden shadow-inner border border-gray-200 relative group">
                 <iframe
-                  src="https://www.youtube.com/embed/QHLIDGCGuL8?autoplay=1&mute=0&loop=1&playlist=QHLIDGCGuL8"
+                  src="https://www.youtube.com/embed/xO_4-VRdkig?autoplay=1&mute=0&loop=1&playlist=xO_4-VRdkig"
                   title="YouTube Shorts"
                   className="w-full h-full object-cover"
                   frameBorder="0"
