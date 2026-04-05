@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-pink-200 via-purple-200 to-indigo-200 min-h-screen m-0 flex flex-col font-sans overflow-hidden;
+  }
+}
